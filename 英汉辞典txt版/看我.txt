@@ -1,0 +1,5 @@
+该辞典来自 https://github.com/skywind3000/ECDICT
+
+我减少了其中的一些无关紧要的内容，使得原本60多MB的csv文件变成了40多MB
+
+csv文件是啥？打开看看就可以明白它的格式。
